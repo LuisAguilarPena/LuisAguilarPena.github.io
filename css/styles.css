@@ -1,3 +1,9 @@
 .centeredtext {
 	text-align: center;
 }
+
+body {	
+	
+	font-family: "Courier New", "Times New Roman";
+}
+/*web safe fonts at the end*/
